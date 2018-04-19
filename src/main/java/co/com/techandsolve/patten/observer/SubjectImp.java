@@ -1,7 +1,4 @@
-package co.com.techandsolve.patten.observe;
-
-import java.util.ArrayList;
-import java.util.List;
+package co.com.techandsolve.patten.observer;
 
 /**
  * Created by MyMac on 18/04/18.

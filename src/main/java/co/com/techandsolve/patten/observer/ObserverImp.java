@@ -1,4 +1,4 @@
-package co.com.techandsolve.patten.observe;
+package co.com.techandsolve.patten.observer;
 
 /**
  * Created by MyMac on 18/04/18.

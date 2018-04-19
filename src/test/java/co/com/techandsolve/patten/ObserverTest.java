@@ -1,9 +1,9 @@
 package co.com.techandsolve.patten;
 
-import co.com.techandsolve.patten.observe.Observer;
-import co.com.techandsolve.patten.observe.ObserverImp;
-import co.com.techandsolve.patten.observe.Subject;
-import co.com.techandsolve.patten.observe.SubjectImp;
+import co.com.techandsolve.patten.observer.Observer;
+import co.com.techandsolve.patten.observer.ObserverImp;
+import co.com.techandsolve.patten.observer.Subject;
+import co.com.techandsolve.patten.observer.SubjectImp;
 import org.junit.Test;
 
 /**

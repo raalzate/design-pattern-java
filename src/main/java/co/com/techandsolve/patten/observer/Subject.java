@@ -1,4 +1,4 @@
-package co.com.techandsolve.patten.observe;
+package co.com.techandsolve.patten.observer;
 
 import java.util.ArrayList;
 import java.util.List;
